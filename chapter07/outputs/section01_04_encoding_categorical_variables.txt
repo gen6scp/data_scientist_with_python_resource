@@ -1,0 +1,57 @@
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 66516 entries, 0 to 83639
+Data columns (total 41 columns):
+datetime                66516 non-null object
+city                    66516 non-null object
+state                   66516 non-null object
+country                 66516 non-null object
+shape                   66516 non-null object
+duration (seconds)      66516 non-null float64
+duration (hours/min)    66516 non-null object
+comments                66516 non-null object
+date posted             66516 non-null object
+latitude                66516 non-null object
+longitude               66516 non-null float64
+seconds_log             66516 non-null float64
+country_enc             66516 non-null int64
+changed                 66516 non-null uint8
+changing                66516 non-null uint8
+chevron                 66516 non-null uint8
+cigar                   66516 non-null uint8
+circle                  66516 non-null uint8
+cone                    66516 non-null uint8
+crescent                66516 non-null uint8
+cross                   66516 non-null uint8
+cylinder                66516 non-null uint8
+delta                   66516 non-null uint8
+diamond                 66516 non-null uint8
+disk                    66516 non-null uint8
+egg                     66516 non-null uint8
+fireball                66516 non-null uint8
+flare                   66516 non-null uint8
+flash                   66516 non-null uint8
+formation               66516 non-null uint8
+hexagon                 66516 non-null uint8
+light                   66516 non-null uint8
+other                   66516 non-null uint8
+oval                    66516 non-null uint8
+pyramid                 66516 non-null uint8
+rectangle               66516 non-null uint8
+round                   66516 non-null uint8
+sphere                  66516 non-null uint8
+teardrop                66516 non-null uint8
+triangle                66516 non-null uint8
+unknown                 66516 non-null uint8
+dtypes: float64(3), int64(1), object(9), uint8(28)
+memory usage: 8.9+ MB
+None
+
+* Check some columns
+           datetime  seconds_log  country_enc  ...   latitude  round  light
+0  10/10/1949 20:30     7.901007            1  ...  29.883056      0      0
+3  10/10/1956 21:00     2.995732            1  ...  28.978333      0      0
+4  10/10/1960 20:00     6.802395            1  ...  21.418056      0      1
+5  10/10/1961 19:00     5.703782            1  ...  36.595000      0      0
+7  10/10/1965 23:45     7.090077            1  ...  41.117500      0      0
+
+[5 rows x 7 columns]

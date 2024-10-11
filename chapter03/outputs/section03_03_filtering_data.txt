@@ -1,0 +1,3 @@
+         Max Temp (°C)  Min Temp (°C)  Precipitation (mm)
+City                                                     
+Phoenix             40             30                 5.0

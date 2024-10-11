@@ -1,0 +1,5 @@
+Customer 1 made 2 purchases.
+Customer 2 made 5 purchases.
+Customer 3 made 3 purchases.
+Customer 4 made 1 purchases.
+Customer 5 made 4 purchases.

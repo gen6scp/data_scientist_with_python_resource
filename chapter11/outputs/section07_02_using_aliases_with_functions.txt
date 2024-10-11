@@ -1,0 +1,99 @@
+To Kill a Mockingbird|15.588
+1984|11.988
+Pride and Prejudice|9.588
+The Great Gatsby|13.188
+Brave New World|17.988
+Moby-Dick|14.388
+Jane Eyre|10.788
+War and Peace|16.788
+The Hobbit|19.188
+The Catcher in the Rye|11.388
+The Lord of the Rings|21.588
+The Chronicles of Narnia|15.588
+Frankenstein|8.388
+Dracula|9.588
+The Odyssey|13.188
+Les Misérables|17.988
+Wuthering Heights|11.988
+The Divine Comedy|14.388
+Anna Karenina|16.788
+The Brothers Karamazov|17.988
+Crime and Punishment|16.188
+The Iliad|11.988
+A Tale of Two Cities|13.188
+Great Expectations|14.388
+David Copperfield|15.588
+Madame Bovary|10.788
+Don Quixote|12.588
+The Count of Monte Cristo|15.588
+The Three Musketeers|13.788
+Heart of Darkness|10.188
+The Picture of Dorian Gray|11.988
+Fahrenheit 451|10.788
+Brave New World|16.788
+The Grapes of Wrath|14.388
+Of Mice and Men|11.988
+East of Eden|15.588
+The Old Man and the Sea|12.588
+A Farewell to Arms|11.388
+The Sun Also Rises|11.988
+Slaughterhouse-Five|13.188
+Catch-22|12.588
+One Hundred Years of Solitude|16.788
+Love in the Time of Cholera|15.588
+The Sound and the Fury|14.388
+As I Lay Dying|11.988
+The Metamorphosis|9.588
+The Trial|10.788
+Lolita|15.588
+The Master and Margarita|14.388
+Ulysses|19.188
+The Dubliners|10.788
+Mansfield Park|8.988
+Sense and Sensibility|9.588
+Persuasion|10.188
+The Scarlet Letter|11.388
+Uncle Tom's Cabin|10.788
+Gulliver's Travels|11.988
+Robinson Crusoe|13.188
+The War of the Worlds|9.588
+The Time Machine|8.988
+The Invisible Man|10.188
+The Island of Doctor Moreau|10.788
+Treasure Island|12.588
+Strange Case of Dr Jekyll and Mr Hyde|11.988
+Around the World in Eighty Days|11.388
+Twenty Thousand Leagues Under the Sea|13.788
+Journey to the Center of the Earth|12.588
+The Hunchback of Notre-Dame|14.388
+The Phantom of the Opera|11.388
+The Call of the Wild|10.788
+White Fang|11.388
+Heart of Darkness|10.788
+The Adventures of Tom Sawyer|9.588
+Adventures of Huckleberry Finn|10.788
+The Prince and the Pauper|11.388
+Moll Flanders|10.188
+Candide|9.588
+The Stranger|10.788
+The Plague|11.988
+Nineteen Eighty-Four|11.988
+Animal Farm|9.588
+The Bell Jar|12.588
+Invisible Man|13.788
+Beloved|15.588
+Song of Solomon|16.188
+The Road|14.388
+No Country for Old Men|13.188
+Blood Meridian|17.988
+The Godfather|14.988
+The Shining|14.388
+It|16.788
+The Stand|17.988
+Misery|13.188
+Harry Potter and the Sorcerer's Stone|15.588
+Harry Potter and the Chamber of Secrets|16.788
+Harry Potter and the Prisoner of Azkaban|17.988
+Harry Potter and the Goblet of Fire|19.188
+Harry Potter and the Order of the Phoenix|20.388
+275

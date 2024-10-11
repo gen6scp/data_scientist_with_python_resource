@@ -1,0 +1,6 @@
+title                      year_published      
+-------------------------  --------------------
+Harry Potter and the Sorc  1997                
+Harry Potter and the Cham  1998                
+Harry Potter and the Pris  1999                
+Harry Potter and the Gobl  2000                

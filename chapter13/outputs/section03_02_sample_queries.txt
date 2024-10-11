@@ -1,0 +1,22 @@
+date        post_id     text                                         
+----------  ----------  ---------------------------------------------
+2024-10-04  22696922    1 person killed as result of shelling in Chas
+2024-10-04  22696927    2 airstrikes targeted forest in one of centra
+2024-10-04  22696903    Turkey ratifies a free trade agreement with U
+2024-10-04  22696879    State Dept says Blinken spoke with Ukrainian 
+2024-10-04  22696877    Explosions were reported in Sloviansk        
+2024-10-04  22696799    Lukashenka: My main task is to prevent Belaru
+2024-10-04  22696797    Lukashenka said that Belarus has never initia
+2024-10-04  22696716    2 person wounded as result of Russian shellin
+2024-10-04  22696748    Russian aviation conducted airstrikes at Kate
+2024-10-04  22696746    At Kramatorsk axis clashes yesterday near Cha
+2024-10-04  22696744    At Toretsk axis clashes yesterday near Katery
+2024-10-04  22696742    At Kupyansk axis clashes yesterday near Synki
+2024-10-04  22696741    At Kurakhivka axis clashes yesterday near Nov
+2024-10-04  22696740    At Lyman axis clashes yesterday near Makiyivk
+2024-10-04  22696739    At Kharkiv axis clashes yesterday near Staryt
+2024-10-04  22696717    At Pokrovsk axis clashes yesterday near Sukha
+2024-10-04  22696710    At Vremivka axis clashes yesterday near Bohoy
+2024-10-04  22696709    At Orikhiv axis clashes yesterday near Kamyan
+2024-10-04  22696639    1 person killed as result of Russian shelling
+2024-10-04  22696579    Ukrainian air defense shot down 9 of 19 Shahe

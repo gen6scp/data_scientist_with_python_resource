@@ -1,0 +1,5 @@
+sys:1: DtypeWarning: Columns (5,9) have mixed types. Specify dtype option on import or set low_memory=False.
+* Duration Variance
+261009571686.20132
+* Duration Variance after Log Normalized
+4.691182002532806

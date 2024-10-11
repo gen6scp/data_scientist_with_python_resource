@@ -1,0 +1,17 @@
+* Select the Max Temp (°C) column
+City
+New York       32
+Los Angeles    35
+Chicago        30
+Houston        34
+Phoenix        40
+Name: Max Temp (°C), dtype: int64
+
+* Select multiple columns
+             Max Temp (°C)  Min Temp (°C)
+City                                     
+New York                32             20
+Los Angeles             35             22
+Chicago                 30             18
+Houston                 34             25
+Phoenix                 40             30

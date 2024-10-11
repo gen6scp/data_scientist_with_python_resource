@@ -1,0 +1,1 @@
+<sqlite3.Cursor object at 0x7f88c22b2b20>

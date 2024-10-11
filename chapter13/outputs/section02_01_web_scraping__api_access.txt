@@ -1,0 +1,8 @@
+usage: osint_scraper.py [-h] [-p PAST] [-d]
+
+Scraper for up-to-date data from Liveuamap website.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -p PAST, --past PAST  Specify the past days you want to scrape
+  -d, --debug           Debug Option. When specified, put html into debug

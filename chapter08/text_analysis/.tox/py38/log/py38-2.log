@@ -1,0 +1,16 @@
+action: py38, msg: installpkg
+cwd: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis
+cmd: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/py38/bin/python -m pip install --exists-action w .tox/.tmp/package/1/text_analysis-0.1.0.zip
+Processing ./.tox/.tmp/package/1/text_analysis-0.1.0.zip
+Building wheels for collected packages: text-analysis
+  Building wheel for text-analysis (setup.py): started
+  Building wheel for text-analysis (setup.py): finished with status 'done'
+  Created wheel for text-analysis: filename=text_analysis-0.1.0-py3-none-any.whl size=1092 sha256=1f8b2bcd24e15205d3adbedb752e24a2e054fc3d2828b01f750541d5b329950c
+  Stored in directory: /home/gen/.cache/pip/wheels/50/3b/ef/496925d83199f5de632addc86e5dcc2b17671b3c7238a1345a
+Successfully built text-analysis
+Installing collected packages: text-analysis
+  Attempting uninstall: text-analysis
+    Found existing installation: text-analysis 0.1.0
+    Not uninstalling text-analysis at /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis, outside environment /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/py38
+    Can't uninstall 'text-analysis'. No files were found to uninstall.
+Successfully installed text-analysis-0.1.0

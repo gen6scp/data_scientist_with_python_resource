@@ -1,0 +1,7 @@
+   student_id     name        address  grades
+0           1    Alice           None    88.0
+1           2      Bob    123 Main St    92.0
+2           3  Charlie           None    85.0
+3           4    David  456 Maple Ave     NaN
+4           5      Eve     789 Elm St    95.0
+Missing values in 'address' column: 2

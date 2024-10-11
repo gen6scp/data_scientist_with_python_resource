@@ -1,0 +1,39 @@
+running sdist
+running egg_info
+writing text_analysis.egg-info/PKG-INFO
+writing dependency_links to text_analysis.egg-info/dependency_links.txt
+writing top-level names to text_analysis.egg-info/top_level.txt
+reading manifest file 'text_analysis.egg-info/SOURCES.txt'
+writing manifest file 'text_analysis.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: if 'author' supplied, 'author_email' must be supplied too
+
+creating text_analysis-0.1.0
+creating text_analysis-0.1.0/text_analysis.egg-info
+copying files to text_analysis-0.1.0...
+copying setup.py -> text_analysis-0.1.0
+copying text_analysis.egg-info/PKG-INFO -> text_analysis-0.1.0/text_analysis.egg-info
+copying text_analysis.egg-info/SOURCES.txt -> text_analysis-0.1.0/text_analysis.egg-info
+copying text_analysis.egg-info/dependency_links.txt -> text_analysis-0.1.0/text_analysis.egg-info
+copying text_analysis.egg-info/top_level.txt -> text_analysis-0.1.0/text_analysis.egg-info
+Writing text_analysis-0.1.0/setup.cfg
+Creating tar archive
+removing 'text_analysis-0.1.0' (and everything under it)
+running bdist_wheel
+running build
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_egg_info
+Copying text_analysis.egg-info to build/bdist.linux-x86_64/wheel/text_analysis-0.1.0.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/text_analysis-0.1.0.dist-info/WHEEL
+creating 'dist/text_analysis-0.1.0-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'text_analysis-0.1.0.dist-info/METADATA'
+adding 'text_analysis-0.1.0.dist-info/WHEEL'
+adding 'text_analysis-0.1.0.dist-info/top_level.txt'
+adding 'text_analysis-0.1.0.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel

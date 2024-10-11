@@ -1,0 +1,7 @@
+Adventure|8
+Fantasy|8
+Fiction|23
+Historical Fiction|6
+Romance|8
+Science Fiction|12
+J.R.R. Tolkien|16.99

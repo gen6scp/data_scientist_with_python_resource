@@ -1,0 +1,4 @@
+     trail      length  mileage
+0  Trail A   3.5 miles     3.50
+1  Trail B     5 miles     5.00
+2  Trail C  2.75 miles     2.75

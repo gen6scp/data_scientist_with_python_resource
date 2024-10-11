@@ -1,0 +1,8 @@
+Obtaining file:///home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis
+Installing collected packages: text-analysis
+  Attempting uninstall: text-analysis
+    Found existing installation: text-analysis 0.1.0
+    Uninstalling text-analysis-0.1.0:
+      Successfully uninstalled text-analysis-0.1.0
+  Running setup.py develop for text-analysis
+Successfully installed text-analysis

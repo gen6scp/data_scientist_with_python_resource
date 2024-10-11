@@ -1,0 +1,7 @@
+title                      author              
+-------------------------  --------------------
+1984                       George Orwell       
+A Farewell to Arms         Ernest Hemingway    
+A Tale of Two Cities       Charles Dickens     
+Adventures of Huckleberry  Mark Twain          
+Animal Farm                George Orwell       

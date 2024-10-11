@@ -1,0 +1,5 @@
+title                      price               
+-------------------------  --------------------
+The Lord of the Rings      17.99               
+Harry Potter and the Orde  16.99               
+The Hobbit                 15.99               

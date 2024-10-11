@@ -1,0 +1,37 @@
+action: GLOB, msg: packaging
+cwd: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis
+cmd: /usr/bin/python3 setup.py sdist --formats=zip --dist-dir .tox/dist
+running sdist
+running egg_info
+writing text_analysis.egg-info/PKG-INFO
+writing dependency_links to text_analysis.egg-info/dependency_links.txt
+writing top-level names to text_analysis.egg-info/top_level.txt
+reading manifest file 'text_analysis.egg-info/SOURCES.txt'
+writing manifest file 'text_analysis.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: if 'author' supplied, 'author_email' must be supplied too
+
+creating text_analysis-0.1.0
+creating text_analysis-0.1.0/text_analysis.egg-info
+copying files to text_analysis-0.1.0...
+copying setup.py -> text_analysis-0.1.0
+copying text_analysis.egg-info/PKG-INFO -> text_analysis-0.1.0/text_analysis.egg-info
+copying text_analysis.egg-info/SOURCES.txt -> text_analysis-0.1.0/text_analysis.egg-info
+copying text_analysis.egg-info/dependency_links.txt -> text_analysis-0.1.0/text_analysis.egg-info
+copying text_analysis.egg-info/top_level.txt -> text_analysis-0.1.0/text_analysis.egg-info
+Writing text_analysis-0.1.0/setup.cfg
+creating '.tox/dist/text_analysis-0.1.0.zip' and adding 'text_analysis-0.1.0' to it
+adding 'text_analysis-0.1.0'
+adding 'text_analysis-0.1.0/text_analysis.egg-info'
+adding 'text_analysis-0.1.0/setup.cfg'
+adding 'text_analysis-0.1.0/PKG-INFO'
+adding 'text_analysis-0.1.0/setup.py'
+adding 'text_analysis-0.1.0/text_analysis.egg-info/dependency_links.txt'
+adding 'text_analysis-0.1.0/text_analysis.egg-info/SOURCES.txt'
+adding 'text_analysis-0.1.0/text_analysis.egg-info/PKG-INFO'
+adding 'text_analysis-0.1.0/text_analysis.egg-info/top_level.txt'
+removing 'text_analysis-0.1.0' (and everything under it)

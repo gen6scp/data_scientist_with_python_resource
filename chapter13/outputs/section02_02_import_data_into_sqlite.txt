@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "section2_02_import_data_into_sqlite.py", line 17, in <module>
+    df.to_sql('incidents', conn, if_exists='append', index=False)
+NameError: name 'df' is not defined

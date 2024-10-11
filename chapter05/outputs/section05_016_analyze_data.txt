@@ -1,0 +1,3 @@
+Temperature: 301.46
+Humidity: 41
+Weather Description: clear sky

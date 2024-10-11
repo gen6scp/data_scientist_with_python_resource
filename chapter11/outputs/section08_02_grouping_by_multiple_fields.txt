@@ -1,0 +1,22 @@
+genre                      year_published        max_price 
+-------------------------  --------------------  ----------
+Epic                       -750                  9.99      
+Epic                       -700                  10.99     
+Epic                       1320                  11.99     
+Satire                     1605                  10.49     
+Adventure                  1719                  10.99     
+Picaresque                 1722                  8.49      
+Satire                     1726                  9.99      
+Satire                     1759                  7.99      
+Romance                    1811                  7.99      
+Romance                    1813                  7.99      
+Romance                    1814                  7.49      
+Horror                     1818                  7.99      
+Romance                    1818                  8.49      
+Gothic Fiction             1831                  11.99     
+Adventure                  1844                  12.99     
+Romance                    1847                  9.99      
+Fiction                    1850                  12.99     
+Historical Fiction         1850                  9.49      
+Adventure                  1851                  11.99     
+Historical Fiction         1852                  8.99      

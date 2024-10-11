@@ -1,0 +1,6 @@
+   customer_id  total_purchase_amount
+0            1                    100
+1            2                    150
+2            3                    200
+3            4                    130
+4            5                    160

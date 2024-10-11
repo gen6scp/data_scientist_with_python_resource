@@ -1,0 +1,22 @@
+title                      year_published        price     
+-------------------------  --------------------  ----------
+The Iliad                  -750                  9.99      
+The Odyssey                -700                  10.99     
+The Divine Comedy          1320                  11.99     
+Don Quixote                1605                  10.49     
+Robinson Crusoe            1719                  10.99     
+Moll Flanders              1722                  8.49      
+Gulliver's Travels         1726                  9.99      
+Candide                    1759                  7.99      
+Sense and Sensibility      1811                  7.99      
+Pride and Prejudice        1813                  7.99      
+Mansfield Park             1814                  7.49      
+Frankenstein               1818                  7.99      
+Persuasion                 1818                  8.49      
+The Hunchback of Notre-Da  1831                  11.99     
+The Three Musketeers       1844                  11.49     
+The Count of Monte Cristo  1844                  12.99     
+Jane Eyre                  1847                  8.99      
+Wuthering Heights          1847                  9.99      
+The Scarlet Letter         1850                  9.49      
+David Copperfield          1850                  12.99     

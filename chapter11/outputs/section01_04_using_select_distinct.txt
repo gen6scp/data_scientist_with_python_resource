@@ -1,0 +1,26 @@
+genre                    
+-------------------------
+Fiction                  
+Science Fiction          
+Romance                  
+Adventure                
+Historical Fiction       
+Fantasy                  
+Horror                   
+Epic                     
+Philosophical Fiction    
+Psychological Fiction    
+Realism                  
+Satire                   
+Gothic Fiction           
+Magical Realism          
+Absurdist Fiction        
+Controversial Fiction    
+Modernist Fiction        
+Picaresque               
+Political Fiction        
+Post-Apocalyptic Fiction 
+Thriller                 
+Western Fiction          
+Crime                    
+                         

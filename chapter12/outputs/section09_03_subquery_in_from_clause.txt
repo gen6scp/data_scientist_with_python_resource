@@ -1,0 +1,12 @@
+publisher                            avg_sales 
+-----------------------------------  ----------
+Penguin Books                        250000.0  
+HarperCollins                        406666.666
+Random House                         342500.0  
+Simon & Schuster                     532500.0  
+Macmillan Publishers                 260000.0  
+Hachette Livre                       310000.0  
+Scholastic                           290000.0  
+Oxford University Press              1000000.0 
+Cambridge University Press           400000.0  
+Bloomsbury Publishing                320000.0  

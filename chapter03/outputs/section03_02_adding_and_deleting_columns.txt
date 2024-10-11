@@ -1,0 +1,19 @@
+* Add a new column with the average temperature
+             Max Temp (°C)  ...  Average Temp (°C)
+City                        ...                   
+New York                32  ...               26.0
+Los Angeles             35  ...               28.5
+Chicago                 30  ...               24.0
+Houston                 34  ...               29.5
+Phoenix                 40  ...               35.0
+
+[5 rows x 4 columns]
+
+* Delete the Min Temp (°C) column
+             Max Temp (°C)  Precipitation (mm)  Average Temp (°C)
+City                                                             
+New York                32                15.0               26.0
+Los Angeles             35                 2.0               28.5
+Chicago                 30                20.0               24.0
+Houston                 34                25.0               29.5
+Phoenix                 40                 5.0               35.0

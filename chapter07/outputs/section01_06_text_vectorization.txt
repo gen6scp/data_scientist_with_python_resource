@@ -1,0 +1,2 @@
+* Dimension of the TF-IDF Descriptor
+(66040, 25016)

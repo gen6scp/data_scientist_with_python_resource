@@ -1,0 +1,6 @@
+   customer_id  purchases  loyal
+0            1          2  False
+1            2          5   True
+2            3          3  False
+3            4          1  False
+4            5          4   True

@@ -1,0 +1,6 @@
+* Before Log Normalization
+98609.60096578715
+* After Log Normalization
+0.17134560763797954
+* KNN Model Accuracy (After Log Normalization)
+0.8222222222222222

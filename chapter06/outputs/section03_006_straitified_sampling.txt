@@ -1,0 +1,10 @@
+* Test
+Positive    1
+Neutral     1
+Negative    1
+Name: feedback, dtype: int64
+* Train
+Positive    3
+Negative    3
+Neutral     1
+Name: feedback, dtype: int64

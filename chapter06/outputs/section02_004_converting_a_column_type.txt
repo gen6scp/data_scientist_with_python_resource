@@ -1,0 +1,5 @@
+student_id     int64
+name          object
+address       object
+grades         Int64
+dtype: object

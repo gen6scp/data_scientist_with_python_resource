@@ -1,0 +1,3 @@
+Alice works as a Senior Engineer in the Development department with 5 years of experience.
+David works as a Analyst in the Finance department with 3 years of experience.
+Eve works as a Consultant in the Consulting department with 4 years of experience.

@@ -1,0 +1,6 @@
+title                                first_name  last_name 
+-----------------------------------  ----------  ----------
+Pride and Prejudice                  Jane        Austen    
+Adventures of Huckleberry Finn       Mark        Twain     
+A Tale of Two Cities                 Charles     Dickens   
+Sherlock Holmes: A Study in Scarlet  Arthur      Conan Doyl

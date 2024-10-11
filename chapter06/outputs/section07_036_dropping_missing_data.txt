@@ -1,0 +1,18 @@
+sys:1: DtypeWarning: Columns (5,9) have mixed types. Specify dtype option on import or set low_memory=False.
+* Missing values count per column:
+datetime                   0
+city                       0
+state                   2748
+country                 7328
+shape                   2364
+duration (seconds)         1
+duration (hours/min)    2627
+comments                  28
+date posted                0
+latitude                   0
+longitude                  0
+dtype: int64
+* Before dropping the missing values
+(83642, 11)
+* After dropping the missing values
+(69528, 11)

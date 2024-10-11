@@ -1,0 +1,23 @@
+* Select a single row by label (City)
+Max Temp (°C)         30.0
+Min Temp (°C)         18.0
+Precipitation (mm)    20.0
+Name: Chicago, dtype: float64
+
+* Select a single row by index position
+Max Temp (°C)         30.0
+Min Temp (°C)         18.0
+Precipitation (mm)    20.0
+Name: Chicago, dtype: float64
+
+* Select multiple rows and columns using labels
+         Max Temp (°C)  Precipitation (mm)
+City                                      
+Chicago             30                20.0
+Houston             34                25.0
+
+* Select multiple rows and columns using index positions
+         Max Temp (°C)  Precipitation (mm)
+City                                      
+Chicago             30                20.0
+Houston             34                25.0

@@ -1,0 +1,6 @@
+total_sales      first_name       last_name      
+---------------  ---------------  ---------------
+1430000.0        J.R.R.           Tolkien        
+1000000.0        J.K.             Rowling        
+600000.0         Harper           Lee            
+700000.0         Gabriel          García Márquez 

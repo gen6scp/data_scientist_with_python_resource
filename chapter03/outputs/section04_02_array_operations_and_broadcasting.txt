@@ -1,0 +1,9 @@
+* Element-wise addition
+[5 7 9]
+
+* Scalar multiplication (broadcasting)
+[2 4 6]
+
+* Broadcasting with 2D arrays
+[[11 22 33]
+ [14 25 36]]

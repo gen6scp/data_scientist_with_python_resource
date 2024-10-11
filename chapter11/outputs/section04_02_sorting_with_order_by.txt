@@ -1,0 +1,22 @@
+title                      price               
+-------------------------  --------------------
+The Lord of the Rings      17.99               
+Harry Potter and the Orde  16.99               
+The Hobbit                 15.99               
+Ulysses                    15.99               
+Harry Potter and the Gobl  15.99               
+Brave New World            14.99               
+Les Misérables             14.99               
+The Brothers Karamazov     14.99               
+Blood Meridian             14.99               
+The Stand                  14.99               
+Harry Potter and the Pris  14.99               
+War and Peace              13.99               
+Anna Karenina              13.99               
+Brave New World            13.99               
+One Hundred Years of Soli  13.99               
+It                         13.99               
+Harry Potter and the Cham  13.99               
+Crime and Punishment       13.49               
+Song of Solomon            13.49               
+To Kill a Mockingbird      12.99               

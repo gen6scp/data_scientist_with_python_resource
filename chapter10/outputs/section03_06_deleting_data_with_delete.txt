@@ -1,0 +1,12 @@
+id          title       author      genre       year_publi  price     
+----------  ----------  ----------  ----------  ----------  ----------
+1           To Kill a   Harper Lee  Fiction     1960        12.99     
+2           1984        George Orw  Science Fi  1949        9.99      
+3           Pride and   Jane Auste  Romance     1813        7.99      
+4           The Great   F. Scott F  Fiction     1925        10.99     
+5           Brave New   Aldous Hux  Science Fi  1932        14.99     
+6           Moby-Dick   Herman Mel  Adventure   1851        11.99     
+7           Jane Eyre   Charlotte   Romance     1847        8.99      
+8           War and Pe  Leo Tolsto  Historical  1869        13.99     
+9           The Hobbit  J.R.R. Tol  Fantasy     1937        15.99     
+10          The Catche  J.D. Salin  Fiction     1951        9.49      

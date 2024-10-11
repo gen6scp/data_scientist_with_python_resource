@@ -1,0 +1,98 @@
+To Kill a Mockingbird|15.59
+1984|11.99
+Pride and Prejudice|9.59
+The Great Gatsby|13.19
+Brave New World|17.99
+Moby-Dick|14.39
+Jane Eyre|10.79
+War and Peace|16.79
+The Hobbit|19.19
+The Catcher in the Rye|11.39
+The Lord of the Rings|21.59
+The Chronicles of Narnia|15.59
+Frankenstein|8.39
+Dracula|9.59
+The Odyssey|13.19
+Les Misérables|17.99
+Wuthering Heights|11.99
+The Divine Comedy|14.39
+Anna Karenina|16.79
+The Brothers Karamazov|17.99
+Crime and Punishment|16.19
+The Iliad|11.99
+A Tale of Two Cities|13.19
+Great Expectations|14.39
+David Copperfield|15.59
+Madame Bovary|10.79
+Don Quixote|12.59
+The Count of Monte Cristo|15.59
+The Three Musketeers|13.79
+Heart of Darkness|10.19
+The Picture of Dorian Gray|11.99
+Fahrenheit 451|10.79
+Brave New World|16.79
+The Grapes of Wrath|14.39
+Of Mice and Men|11.99
+East of Eden|15.59
+The Old Man and the Sea|12.59
+A Farewell to Arms|11.39
+The Sun Also Rises|11.99
+Slaughterhouse-Five|13.19
+Catch-22|12.59
+One Hundred Years of Solitude|16.79
+Love in the Time of Cholera|15.59
+The Sound and the Fury|14.39
+As I Lay Dying|11.99
+The Metamorphosis|9.59
+The Trial|10.79
+Lolita|15.59
+The Master and Margarita|14.39
+Ulysses|19.19
+The Dubliners|10.79
+Mansfield Park|8.99
+Sense and Sensibility|9.59
+Persuasion|10.19
+The Scarlet Letter|11.39
+Uncle Tom's Cabin|10.79
+Gulliver's Travels|11.99
+Robinson Crusoe|13.19
+The War of the Worlds|9.59
+The Time Machine|8.99
+The Invisible Man|10.19
+The Island of Doctor Moreau|10.79
+Treasure Island|12.59
+Strange Case of Dr Jekyll and Mr Hyde|11.99
+Around the World in Eighty Days|11.39
+Twenty Thousand Leagues Under the Sea|13.79
+Journey to the Center of the Earth|12.59
+The Hunchback of Notre-Dame|14.39
+The Phantom of the Opera|11.39
+The Call of the Wild|10.79
+White Fang|11.39
+Heart of Darkness|10.79
+The Adventures of Tom Sawyer|9.59
+Adventures of Huckleberry Finn|10.79
+The Prince and the Pauper|11.39
+Moll Flanders|10.19
+Candide|9.59
+The Stranger|10.79
+The Plague|11.99
+Nineteen Eighty-Four|11.99
+Animal Farm|9.59
+The Bell Jar|12.59
+Invisible Man|13.79
+Beloved|15.59
+Song of Solomon|16.19
+The Road|14.39
+No Country for Old Men|13.19
+Blood Meridian|17.99
+The Godfather|14.99
+The Shining|14.39
+It|16.79
+The Stand|17.99
+Misery|13.19
+Harry Potter and the Sorcerer's Stone|15.59
+Harry Potter and the Chamber of Secrets|16.79
+Harry Potter and the Prisoner of Azkaban|17.99
+Harry Potter and the Goblet of Fire|19.19
+Harry Potter and the Order of the Phoenix|20.39

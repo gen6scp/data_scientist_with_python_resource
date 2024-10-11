@@ -1,0 +1,36 @@
+name                               
+-----------------------------------
+Pride and Prejudice                
+Emma                               
+Adventures of Huckleberry Finn     
+1984                               
+The Fellowship of the Ring         
+The Two Towers                     
+The Return of the King             
+The Great Gatsby                   
+The Old Man and the Sea            
+A Tale of Two Cities               
+Murder on the Orient Express       
+War and Peace                      
+The Time Machine                   
+Harry Potter and the Sorcerer's Sto
+Foundation                         
+Sherlock Holmes: A Study in Scarlet
+The Catcher in the Rye             
+The Shining                        
+To Kill a Mockingbird              
+One Hundred Years of Solitude      
+Mrs Dalloway                       
+Ulysses                            
+Brave New World                    
+Fahrenheit 451                     
+Penguin Books                      
+HarperCollins                      
+Random House                       
+Simon & Schuster                   
+Macmillan Publishers               
+Hachette Livre                     
+Scholastic                         
+Oxford University Press            
+Cambridge University Press         
+Bloomsbury Publishing              

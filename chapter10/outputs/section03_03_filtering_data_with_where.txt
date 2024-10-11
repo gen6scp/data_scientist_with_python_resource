@@ -1,0 +1,3 @@
+id          title       author      genre       year_publi  price     
+----------  ----------  ----------  ----------  ----------  ----------
+2           1984        George Orw  Science Fi  1949        9.99      

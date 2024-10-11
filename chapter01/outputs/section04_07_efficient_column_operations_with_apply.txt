@@ -1,0 +1,6 @@
+   customer_id  purchases category
+0            1          2      Low
+1            2          5     High
+2            3          3   Medium
+3            4          1      Low
+4            5          4     High

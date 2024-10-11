@@ -1,0 +1,5 @@
+id          title       author      genre       year_publi  price     
+----------  ----------  ----------  ----------  ----------  ----------
+1           To Kill a   Harper Lee  Fiction     1960        12.99     
+4           The Great   F. Scott F  Fiction     1925        10.99     
+10          The Catche  J.D. Salin  Fiction     1951        9.49      

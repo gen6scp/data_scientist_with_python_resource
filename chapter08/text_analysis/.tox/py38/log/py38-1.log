@@ -1,0 +1,17 @@
+action: py38, msg: getenv
+cwd: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis
+cmd: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/py38/bin/python -m pip install pytest
+Collecting pytest
+  Downloading pytest-8.3.3-py3-none-any.whl (342 kB)
+Collecting tomli>=1; python_version < "3.11"
+  Downloading tomli-2.0.2-py3-none-any.whl (13 kB)
+Collecting packaging
+  Downloading packaging-24.1-py3-none-any.whl (53 kB)
+Collecting pluggy<2,>=1.5
+  Downloading pluggy-1.5.0-py3-none-any.whl (20 kB)
+Collecting iniconfig
+  Downloading iniconfig-2.0.0-py3-none-any.whl (5.9 kB)
+Collecting exceptiongroup>=1.0.0rc8; python_version < "3.11"
+  Downloading exceptiongroup-1.2.2-py3-none-any.whl (16 kB)
+Installing collected packages: tomli, packaging, pluggy, iniconfig, exceptiongroup, pytest
+Successfully installed exceptiongroup-1.2.2 iniconfig-2.0.0 packaging-24.1 pluggy-1.5.0 pytest-8.3.3 tomli-2.0.2

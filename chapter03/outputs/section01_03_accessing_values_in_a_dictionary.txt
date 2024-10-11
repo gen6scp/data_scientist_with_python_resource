@@ -1,0 +1,3 @@
+Manager
+dict_keys(['Alice', 'Bob', 'Charlie', 'David'])
+dict_values(['Engineer', 'Manager', 'Designer', 'Analyst'])

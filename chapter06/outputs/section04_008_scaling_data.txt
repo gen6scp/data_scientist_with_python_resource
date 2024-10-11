@@ -1,0 +1,6 @@
+* Before Scaling
+11.09003061482136
+* After Scaling
+1.0
+* KNN Model Accuracy (After Scaling)
+0.6888888888888889

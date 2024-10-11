@@ -1,0 +1,36 @@
+name                               
+-----------------------------------
+1984                               
+A Tale of Two Cities               
+Adventures of Huckleberry Finn     
+Bloomsbury Publishing              
+Brave New World                    
+Cambridge University Press         
+Emma                               
+Fahrenheit 451                     
+Foundation                         
+Hachette Livre                     
+HarperCollins                      
+Harry Potter and the Sorcerer's Sto
+Macmillan Publishers               
+Mrs Dalloway                       
+Murder on the Orient Express       
+One Hundred Years of Solitude      
+Oxford University Press            
+Penguin Books                      
+Pride and Prejudice                
+Random House                       
+Scholastic                         
+Sherlock Holmes: A Study in Scarlet
+Simon & Schuster                   
+The Catcher in the Rye             
+The Fellowship of the Ring         
+The Great Gatsby                   
+The Old Man and the Sea            
+The Return of the King             
+The Shining                        
+The Time Machine                   
+The Two Towers                     
+To Kill a Mockingbird              
+Ulysses                            
+War and Peace                      

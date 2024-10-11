@@ -1,0 +1,22 @@
+title                      author              
+-------------------------  --------------------
+1984                       George Orwell       
+A Farewell to Arms         Ernest Hemingway    
+A Tale of Two Cities       Charles Dickens     
+Adventures of Huckleberry  Mark Twain          
+Animal Farm                George Orwell       
+Anna Karenina              Leo Tolstoy         
+Around the World in Eight  Jules Verne         
+As I Lay Dying             William Faulkner    
+Beloved                    Toni Morrison       
+Blood Meridian             Cormac McCarthy     
+Brave New World            Aldous Huxley       
+Brave New World            Aldous Huxley       
+Candide                    Voltaire            
+Catch-22                   Joseph Heller       
+Crime and Punishment       Fyodor Dostoevsky   
+David Copperfield          Charles Dickens     
+Don Quixote                Miguel de Cervantes 
+Dracula                    Bram Stoker         
+East of Eden               John Steinbeck      
+Fahrenheit 451             Ray Bradbury        

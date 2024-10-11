@@ -1,0 +1,8 @@
+1984|George Orwell
+A Farewell to Arms|Ernest Hemingway
+A Tale of Two Cities|Charles Dickens
+Adventures of Huckleberry Finn|Mark Twain
+Animal Farm|George Orwell
+The Lord of the Rings|17.99
+Harry Potter and the Order of the Phoenix|16.99
+The Hobbit|15.99

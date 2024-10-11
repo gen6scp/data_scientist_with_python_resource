@@ -1,0 +1,4 @@
+total_sum =  450
+mean_value = 50.0
+max_value =  90
+std_dev =  25.81988897471611

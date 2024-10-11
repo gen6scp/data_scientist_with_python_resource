@@ -1,0 +1,4 @@
+Negative    4
+Positive    4
+Neutral     2
+Name: feedback, dtype: int64

@@ -1,0 +1,6 @@
+            City  Population  Temperature (°C)
+NYC     New York     8419600              13.3
+LA   Los Angeles     3980400              18.5
+CHI      Chicago     2716000              10.2
+HOU      Houston     2328000              20.6
+PHX      Phoenix     1690000              22.4

@@ -1,0 +1,8 @@
+genre                      books_in_genre      
+-------------------------  --------------------
+Adventure                  8                   
+Fantasy                    8                   
+Fiction                    23                  
+Historical Fiction         6                   
+Romance                    8                   
+Science Fiction            12                  

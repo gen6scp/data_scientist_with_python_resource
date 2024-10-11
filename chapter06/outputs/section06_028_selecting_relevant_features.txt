@@ -1,0 +1,11 @@
+                             title category  pages  points
+0          Machine Learning Basics       ML    312     0.8
+1     Introduction to Data Science       DS    123     0.5
+2         Deep Learning Techniques       DS    210     0.3
+3        Data Analysis with Python       DS    220     0.2
+4  Statistics for Machine Learning       ML    290     0.7
+5      Advanced Data Visualization       DS    159     0.3
+6      Natural Language Processing       ML    270     0.6
+7            Big Data Technologies       ML    143     0.5
+8  Reinforcement Learning Concepts       ML    396     0.9
+9     Computer Vision Applications       ML    233     0.8

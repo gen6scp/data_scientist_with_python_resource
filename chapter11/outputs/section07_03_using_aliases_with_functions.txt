@@ -1,0 +1,22 @@
+title                      price_in_euros      
+-------------------------  --------------------
+To Kill a Mockingbird      15.588              
+1984                       11.988              
+Pride and Prejudice        9.588               
+The Great Gatsby           13.188              
+Brave New World            17.988              
+Moby-Dick                  14.388              
+Jane Eyre                  10.788              
+War and Peace              16.788              
+The Hobbit                 19.188              
+The Catcher in the Rye     11.388              
+The Lord of the Rings      21.588              
+The Chronicles of Narnia   15.588              
+Frankenstein               9.588               
+Dracula                    9.588               
+The Odyssey                13.188              
+Les Misérables             17.988              
+Wuthering Heights          11.988              
+The Divine Comedy          14.388              
+Anna Karenina              16.788              
+The Brothers Karamazov     17.988              

@@ -1,0 +1,12 @@
+title                      author              
+-------------------------  --------------------
+To Kill a Mockingbird      Harper Lee          
+1984                       George Orwell       
+Pride and Prejudice        Jane Austen         
+The Great Gatsby           F. Scott Fitzgerald 
+Brave New World            Aldous Huxley       
+Moby-Dick                  Herman Melville     
+Jane Eyre                  Charlotte Brontë    
+War and Peace              Leo Tolstoy         
+The Hobbit                 J.R.R. Tolkien      
+The Catcher in the Rye     J.D. Salinger       

@@ -1,0 +1,5 @@
+id          title       author      genre       year_publi  price     
+----------  ----------  ----------  ----------  ----------  ----------
+1           To Kill a   Harper Lee  Fiction     1960        12.99     
+2           1984        George Orw  Science Fi  1949        9.99      
+3           Pride and   Jane Auste  Romance     1813        7.99      

@@ -1,0 +1,6 @@
+      location  location_encoded
+0     New York                 2
+1  Los Angeles                 1
+2     New York                 2
+3      Chicago                 0
+4  Los Angeles                 1

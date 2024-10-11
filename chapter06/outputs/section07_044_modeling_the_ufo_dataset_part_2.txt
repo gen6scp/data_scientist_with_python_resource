@@ -1,0 +1,4 @@
+/home/gen/mybooks/becoming_a_data_scientist_resource/chapter06/section7_039_encoding_categorical_variables.py:6: DtypeWarning: Columns (5,9) have mixed types. Specify dtype option on import or set low_memory=False.
+  from section7_038_identifying_features_for_standardization import ufo, ufo_dropped, pd, np
+* Naive Bayes Model Accuracy
+0.9587522713506965

@@ -1,0 +1,22 @@
+title                      price                 discounted
+-------------------------  --------------------  ----------
+To Kill a Mockingbird      12.99                 11.69     
+1984                       9.99                  8.99      
+Pride and Prejudice        7.99                  7.19      
+The Great Gatsby           10.99                 9.89      
+Brave New World            14.99                 13.49     
+Moby-Dick                  11.99                 10.79     
+Jane Eyre                  8.99                  8.09      
+War and Peace              13.99                 12.59     
+The Hobbit                 15.99                 14.39     
+The Catcher in the Rye     9.49                  8.54      
+The Lord of the Rings      17.99                 16.19     
+The Chronicles of Narnia   12.99                 11.69     
+Frankenstein               7.99                  7.19      
+Dracula                    7.99                  7.19      
+The Odyssey                10.99                 9.89      
+Les Misérables             14.99                 13.49     
+Wuthering Heights          9.99                  8.99      
+The Divine Comedy          11.99                 10.79     
+Anna Karenina              13.99                 12.59     
+The Brothers Karamazov     14.99                 13.49     

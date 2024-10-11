@@ -1,0 +1,6 @@
+   customer_id  purchase_amount purchase_date     location
+0            1              100    2023-01-01     New York
+1            2              150    2023-01-03  Los Angeles
+2            3              200    2023-01-04     New York
+3            4              130    2023-01-07      Chicago
+4            5              160    2023-01-08  Los Angeles

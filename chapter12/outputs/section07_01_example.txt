@@ -1,0 +1,26 @@
+title                                first_name  last_name   publisher 
+-----------------------------------  ----------  ----------  ----------
+Pride and Prejudice                  Jane        Austen      Penguin Bo
+Emma                                 Jane        Austen      HarperColl
+Adventures of Huckleberry Finn       Mark        Twain       Penguin Bo
+1984                                 George      Orwell      Random Hou
+The Fellowship of the Ring           J.R.R.      Tolkien     Simon & Sc
+The Two Towers                       J.R.R.      Tolkien     Simon & Sc
+The Return of the King               J.R.R.      Tolkien     Simon & Sc
+The Great Gatsby                     F. Scott    Fitzgerald  Macmillan 
+The Old Man and the Sea              Ernest      Hemingway   Hachette L
+A Tale of Two Cities                 Charles     Dickens     Penguin Bo
+Murder on the Orient Express         Agatha      Christie    Scholastic
+War and Peace                        Leo         Tolstoy     HarperColl
+The Time Machine                     H.G.        Wells       Random Hou
+Harry Potter and the Sorcerer's Sto  J.K.        Rowling     Oxford Uni
+Foundation                           Isaac       Asimov      Cambridge 
+Sherlock Holmes: A Study in Scarlet  Arthur      Conan Doyl  Penguin Bo
+The Catcher in the Rye               J.D.        Salinger    Bloomsbury
+The Shining                          Stephen     King        Random Hou
+To Kill a Mockingbird                Harper      Lee         HarperColl
+One Hundred Years of Solitude        Gabriel     García Már  Simon & Sc
+Mrs Dalloway                         Virginia    Woolf       Macmillan 
+Ulysses                              James       Joyce       Hachette L
+Brave New World                      Aldous      Huxley      Scholastic
+Fahrenheit 451                       Ray         Bradbury    Random Hou

@@ -1,0 +1,26 @@
+genre                      books_in_genre      
+-------------------------  --------------------
+                           1                   
+Absurdist Fiction          1                   
+Adventure                  8                   
+Controversial Fiction      1                   
+Crime                      1                   
+Epic                       3                   
+Fantasy                    8                   
+Fiction                    23                  
+Gothic Fiction             3                   
+Historical Fiction         6                   
+Horror                     4                   
+Magical Realism            2                   
+Modernist Fiction          1                   
+Philosophical Fiction      3                   
+Picaresque                 1                   
+Political Fiction          1                   
+Post-Apocalyptic Fiction   2                   
+Psychological Fiction      1                   
+Realism                    1                   
+Romance                    8                   
+Satire                     4                   
+Science Fiction            12                  
+Thriller                   2                   
+Western Fiction            1                   

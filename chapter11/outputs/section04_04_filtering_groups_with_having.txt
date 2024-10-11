@@ -1,0 +1,18 @@
+author                     average_price       
+-------------------------  --------------------
+Aldous Huxley              14.49               
+Alexandre Dumas            12.24               
+C.S. Lewis                 12.99               
+Cormac McCarthy            12.6566666666667    
+Fyodor Dostoevsky          14.24               
+Gabriel Garcia Marquez     13.49               
+Harper Lee                 12.99               
+J.K. Rowling               14.99               
+J.R.R. Tolkien             16.99               
+James Joyce                12.49               
+Leo Tolstoy                13.99               
+Mario Puzo                 12.49               
+Stephen King               13.3233333333333    
+Toni Morrison              13.24               
+Victor Hugo                13.49               
+Vladimir Nabokov           12.99               

@@ -1,0 +1,8 @@
+* Accessing a specific element
+60
+\* Slicing rows and columns
+[20 50 80]
+
+* Slicing a submatrix
+[[20 30]
+ [50 60]]

@@ -1,0 +1,8 @@
+genre       COUNT(*)  
+----------  ----------
+Adventure   1         
+Fantasy     1         
+Fiction     3         
+Historical  1         
+Romance     2         
+Science Fi  2         

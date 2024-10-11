@@ -1,0 +1,13 @@
+title                                sales     
+-----------------------------------  ----------
+1984                                 400000.0  
+The Fellowship of the Ring           500000.0  
+The Two Towers                       450000.0  
+The Return of the King               480000.0  
+War and Peace                        500000.0  
+Harry Potter and the Sorcerer's Sto  1000000.0 
+Foundation                           400000.0  
+The Shining                          450000.0  
+To Kill a Mockingbird                600000.0  
+One Hundred Years of Solitude        700000.0  
+Brave New World                      400000.0  

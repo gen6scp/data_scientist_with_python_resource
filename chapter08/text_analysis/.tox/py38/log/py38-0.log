@@ -1,0 +1,7 @@
+action: py38, msg: getenv
+cwd: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox
+cmd: /usr/bin/python3 -m virtualenv --no-download --python /usr/bin/python3 py38
+created virtual environment CPython3.8.10.final.0-64 in 72ms
+  creator CPython3Posix(dest=/home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/py38, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, pkg_resources=latest, via=copy, app_data_dir=/home/gen/.local/share/virtualenv/seed-app-data/v1.0.1.debian.1)
+  activators BashActivator,CShellActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator

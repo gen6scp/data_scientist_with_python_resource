@@ -1,0 +1,4 @@
+                              coord  ...  cod
+0  {'lon': -0.1257, 'lat': 51.5085}  ...  200
+
+[1 rows x 13 columns]

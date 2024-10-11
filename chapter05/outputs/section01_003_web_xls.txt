@@ -1,0 +1,7 @@
+odict_keys(['Sheet1'])
+     Country  Latitude  Longitude
+0        USA   37.0902   -95.7129
+1     Canada   56.1304  -106.3468
+2     Mexico   23.6345  -102.5528
+3     Brazil  -14.2350   -51.9253
+4  Argentina  -38.4161   -63.6167

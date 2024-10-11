@@ -1,0 +1,18 @@
+* Before: UFO Features - head()
+             datetime        city state  ... unknown month    year
+0 1949-10-10 20:30:00  san marcos    tx  ...       0  10.0  1949.0
+3 1956-10-10 21:00:00        edna    tx  ...       0  10.0  1956.0
+4 1960-10-10 20:00:00     kaneohe    hi  ...       0  10.0  1960.0
+5 1961-10-10 19:00:00     bristol    tn  ...       0  10.0  1961.0
+7 1965-10-10 23:45:00     norwalk    ct  ...       0  10.0  1965.0
+
+[5 rows x 43 columns]
+* After: UFO Features - head()
+   seconds_log  country_enc  changed  ...  unknown  month    year
+0     7.901007            1        0  ...        0   10.0  1949.0
+3     2.995732            1        0  ...        0   10.0  1956.0
+4     6.802395            1        0  ...        0   10.0  1960.0
+5     5.703782            1        0  ...        0   10.0  1961.0
+7     7.090077            1        0  ...        0   10.0  1965.0
+
+[5 rows x 32 columns]

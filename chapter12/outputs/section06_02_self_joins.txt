@@ -1,0 +1,10 @@
+book                                 series                             
+-----------------------------------  -----------------------------------
+Emma                                 Pride and Prejudice                
+Pride and Prejudice                  Emma                               
+The Return of the King               The Fellowship of the Ring         
+The Two Towers                       The Fellowship of the Ring         
+The Fellowship of the Ring           The Two Towers                     
+The Return of the King               The Two Towers                     
+The Fellowship of the Ring           The Return of the King             
+The Two Towers                       The Return of the King             

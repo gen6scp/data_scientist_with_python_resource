@@ -1,0 +1,27 @@
+first_name       last_name        book_count
+---------------  ---------------  ----------
+Jane             Austen           2         
+Mark             Twain            1         
+George           Orwell           1         
+J.R.R.           Tolkien          3         
+F. Scott         Fitzgerald       1         
+Ernest           Hemingway        1         
+Charles          Dickens          1         
+Agatha           Christie         1         
+Leo              Tolstoy          1         
+H.G.             Wells            1         
+J.K.             Rowling          1         
+Isaac            Asimov           1         
+Arthur           Conan Doyle      1         
+J.D.             Salinger         1         
+Stephen          King             1         
+Harper           Lee              1         
+Gabriel          García Márquez   1         
+Virginia         Woolf            1         
+James            Joyce            1         
+Aldous           Huxley           1         
+Ray              Bradbury         1         
+William          Shakespeare      0         
+Jules            Verne            0         
+Mary             Shelley          0         
+Herman           Melville         0         

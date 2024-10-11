@@ -1,0 +1,26 @@
+genre                      average_price       
+-------------------------  --------------------
+                                               
+Absurdist Fiction          7.99                
+Adventure                  10.74               
+Controversial Fiction      12.99               
+Crime                      12.49               
+Epic                       10.99               
+Fantasy                    15.24               
+Fiction                    10.5552173913044    
+Gothic Fiction             10.49               
+Historical Fiction         11.9066666666667    
+Horror                     9.99                
+Magical Realism            12.99               
+Modernist Fiction          15.99               
+Philosophical Fiction      11.3233333333333    
+Picaresque                 8.49                
+Political Fiction          7.99                
+Post-Apocalyptic Fiction   13.49               
+Psychological Fiction      13.49               
+Realism                    8.99                
+Romance                    9.74                
+Satire                     9.74                
+Science Fiction            10.3233333333333    
+Thriller                   10.99               
+Western Fiction            14.99               

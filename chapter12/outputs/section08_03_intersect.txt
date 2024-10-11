@@ -1,0 +1,23 @@
+author_id   first_name  last_name 
+----------  ----------  ----------
+1           Jane        Austen    
+2           Mark        Twain     
+3           George      Orwell    
+4           J.R.R.      Tolkien   
+5           F. Scott    Fitzgerald
+6           Ernest      Hemingway 
+7           Charles     Dickens   
+8           Agatha      Christie  
+9           Leo         Tolstoy   
+10          H.G.        Wells     
+11          J.K.        Rowling   
+12          Isaac       Asimov    
+13          Arthur      Conan Doyl
+14          J.D.        Salinger  
+15          Stephen     King      
+16          Harper      Lee       
+17          Gabriel     García Már
+18          Virginia    Woolf     
+19          James       Joyce     
+20          Aldous      Huxley    
+21          Ray         Bradbury  

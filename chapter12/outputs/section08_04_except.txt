@@ -1,0 +1,22 @@
+title                                publisher_id   
+-----------------------------------  ---------------
+1984                                 3              
+Brave New World                      7              
+Emma                                 2              
+Fahrenheit 451                       3              
+Foundation                           9              
+Harry Potter and the Sorcerer's Sto  8              
+Mrs Dalloway                         5              
+Murder on the Orient Express         7              
+One Hundred Years of Solitude        4              
+The Catcher in the Rye               10             
+The Fellowship of the Ring           4              
+The Great Gatsby                     5              
+The Old Man and the Sea              6              
+The Return of the King               4              
+The Shining                          3              
+The Time Machine                     3              
+The Two Towers                       4              
+To Kill a Mockingbird                2              
+Ulysses                              6              
+War and Peace                        2              
