@@ -1,5 +1,5 @@
 action: GLOB, msg: packaging
-cwd: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis
+cwd: /home/gen/mybooks/data_scientist_with_python/resource/chapter08/text_analysis
 cmd: /usr/bin/python3 setup.py sdist --formats=zip --dist-dir .tox/dist
 running sdist
 running egg_info

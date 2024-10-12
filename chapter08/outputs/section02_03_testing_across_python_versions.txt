@@ -1,34 +1,28 @@
-GLOB sdist-make: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/setup.py
-py36 create: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/py36
+GLOB sdist-make: /home/gen/mybooks/data_scientist_with_python/resource/chapter08/text_analysis/setup.py
+py36 create: /home/gen/mybooks/data_scientist_with_python/resource/chapter08/text_analysis/.tox/py36
 ERROR: InterpreterNotFound: python3.6
-py37 create: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/py37
+py37 create: /home/gen/mybooks/data_scientist_with_python/resource/chapter08/text_analysis/.tox/py37
 ERROR: InterpreterNotFound: python3.7
-py38 inst-nodeps: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/.tmp/package/1/text_analysis-0.1.0.zip
+py38 inst-nodeps: /home/gen/mybooks/data_scientist_with_python/resource/chapter08/text_analysis/.tox/.tmp/package/1/text_analysis-0.1.0.zip
 py38 installed: exceptiongroup==1.2.2,iniconfig==2.0.0,packaging==24.1,pluggy==1.5.0,pytest==8.3.3,text-analysis==0.1.0,tomli==2.0.2
-py38 run-test-pre: PYTHONHASHSEED='243224706'
-py38 run-test: commands[0] | pytest
-============================= test session starts ==============================
-platform linux -- Python 3.8.10, pytest-8.3.3, pluggy-1.5.0
-cachedir: .tox/py38/.pytest_cache
-rootdir: /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis
-collected 0 items / 1 error
+py38 run-test-pre: PYTHONHASHSEED='3406974386'
+py38 run-test: commands[0] | pytest-3
+WARNING: test command found but not installed in testenv
+  cmd: /usr/bin/pytest-3
+  env: /home/gen/mybooks/data_scientist_with_python/resource/chapter08/text_analysis/.tox/py38
+Maybe you forgot to specify a dependency? See also the whitelist_externals envconfig setting.
 
-==================================== ERRORS ====================================
-_________________ ERROR collecting tests/test_text_analysis.py _________________
-ImportError while importing test module '/home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/tests/test_text_analysis.py'.
-Hint: make sure your test modules/packages have valid Python names.
-Traceback:
-/usr/lib/python3.8/importlib/__init__.py:127: in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-tests/test_text_analysis.py:4: in <module>
-    from text_analysis import count_words
-E   ModuleNotFoundError: No module named 'text_analysis'
-=========================== short test summary info ============================
-ERROR tests/test_text_analysis.py
-!!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
-=============================== 1 error in 0.05s ===============================
-ERROR: InvocationError for command /home/gen/mybooks/becoming_a_data_scientist_resource/chapter08/text_analysis/.tox/py38/bin/pytest (exited with code 2)
+DEPRECATION WARNING: this will be an error in tox 4 and above!
+============================= test session starts ==============================
+platform linux -- Python 3.8.10, pytest-4.6.9, py-1.8.1, pluggy-0.13.0
+cachedir: .tox/py38/.pytest_cache
+rootdir: /home/gen/mybooks/data_scientist_with_python/resource/chapter08/text_analysis
+collected 1 item
+
+tests/test_function1.py .                                                [100%]
+
+=========================== 1 passed in 0.01 seconds ===========================
 ___________________________________ summary ____________________________________
 ERROR:  py36: InterpreterNotFound: python3.6
 ERROR:  py37: InterpreterNotFound: python3.7
-ERROR:   py38: commands failed
+  py38: commands succeeded

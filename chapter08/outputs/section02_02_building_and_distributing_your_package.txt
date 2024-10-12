@@ -1,8 +1,10 @@
 running sdist
 running egg_info
+creating text_analysis.egg-info
 writing text_analysis.egg-info/PKG-INFO
 writing dependency_links to text_analysis.egg-info/dependency_links.txt
 writing top-level names to text_analysis.egg-info/top_level.txt
+writing manifest file 'text_analysis.egg-info/SOURCES.txt'
 reading manifest file 'text_analysis.egg-info/SOURCES.txt'
 writing manifest file 'text_analysis.egg-info/SOURCES.txt'
 warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
@@ -21,6 +23,7 @@ copying text_analysis.egg-info/SOURCES.txt -> text_analysis-0.1.0/text_analysis.
 copying text_analysis.egg-info/dependency_links.txt -> text_analysis-0.1.0/text_analysis.egg-info
 copying text_analysis.egg-info/top_level.txt -> text_analysis-0.1.0/text_analysis.egg-info
 Writing text_analysis-0.1.0/setup.cfg
+creating dist
 Creating tar archive
 removing 'text_analysis-0.1.0' (and everything under it)
 running bdist_wheel

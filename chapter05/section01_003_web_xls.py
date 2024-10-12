@@ -3,7 +3,7 @@ from urllib.request import urlretrieve
 import pandas as pd
 
 # URL of the file
-url = 'https://github.com/gen6scp/becoming_a_data_scientist_resource/raw/main/chapter1/latitude.xlsx'
+url = 'https://github.com/gen6scp/data_scientist_with_python_resource/raw/main/chapter05/latitude.xlsx'
 urlretrieve(url, 'latitude.xlsx')
 
 # Read all sheets of the Excel file
