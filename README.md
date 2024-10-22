@@ -4,7 +4,9 @@
 
 The book is available on Amazon.
 
-[Amazon.com - Data Scientist: A Beginner's Guide to Mastering Data Science](https://www.amazon.com/dp/B0DJYBC6JB?ref_=pe_93986420_774957520)
+* [Amazon.com - Data Scientist: A Beginner's Guide to Mastering Data Science](https://www.amazon.com/dp/B0DJYBC6JB?ref_=pe_93986420_774957520)
+
+* [Amazon.de - Data Scientist: A Beginner's Guide to Mastering Data Science](https://www.amazon.de/dp/B0DJYBC6JB?ref_=pe_93986420_774957520)
 
 
 
